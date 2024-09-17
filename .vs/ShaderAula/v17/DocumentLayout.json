@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ra00320452\\ShaderAula\\",
+  "WorkspaceRootPath": "C:\\Users\\ra00320452\\Desktop\\ShaderAula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ra00320452\\ShaderAula\\Assets\\Shaders\\Flag1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ra00320452\\Desktop\\ShaderAula\\Assets\\Shaders\\Ocean1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Shaders\\Ocean1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ra00320452\\Desktop\\ShaderAula\\Assets\\Shaders\\Flag1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Shaders\\Flag1.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ocean1.shader",
+              "DocumentMoniker": "C:\\Users\\ra00320452\\Desktop\\ShaderAula\\Assets\\Shaders\\Ocean1.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Ocean1.shader",
+              "ToolTip": "C:\\Users\\ra00320452\\Desktop\\ShaderAula\\Assets\\Shaders\\Ocean1.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Ocean1.shader",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-17T10:57:46.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Flag1.shader",
-              "DocumentMoniker": "C:\\Users\\ra00320452\\ShaderAula\\Assets\\Shaders\\Flag1.shader",
+              "DocumentMoniker": "C:\\Users\\ra00320452\\Desktop\\ShaderAula\\Assets\\Shaders\\Flag1.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\Flag1.shader",
-              "ToolTip": "C:\\Users\\ra00320452\\ShaderAula\\Assets\\Shaders\\Flag1.shader",
+              "ToolTip": "C:\\Users\\ra00320452\\Desktop\\ShaderAula\\Assets\\Shaders\\Flag1.shader",
               "RelativeToolTip": "Assets\\Shaders\\Flag1.shader",
               "ViewState": "AQIAADkAAAAAAAAAAAAAAFQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
